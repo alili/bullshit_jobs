@@ -16,9 +16,8 @@ const props = defineProps<{
 }>()
 // methods
 const getImageUrl = (url) => {
-  const host = window.location.host
   const path = window.location.pathname.split('/')[1]
-  return `${host}/${path}/${url}`
+  return `${path}${url}`
 }
 // lifecycle
 </script>
