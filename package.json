@@ -2,7 +2,7 @@
   "name": "bullshit_jobs",
   "private": true,
   "scripts": {
-    "build": "slidev build --base /bullshit_jobs",
+    "build": "slidev build",
     "dev": "slidev --open",
     "export": "slidev export"
   },
