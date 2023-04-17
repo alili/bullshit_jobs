@@ -5,7 +5,7 @@
       .desc {{ props?.en }}
     .list
       slot
-  img(:src="getImageUrl(props?.image)")
+  img(:src="props?.image")
 </template>
 <script lang="ts" setup name="Thumb">
 // data
@@ -15,10 +15,6 @@ const props = defineProps<{
   en: string
 }>()
 // methods
-const getImageUrl = (url) => {
-  const path = window.location.pathname.split('/')[1]
-  return `${path}${url}`
-}
 // lifecycle
 </script>
 <style lang="stylus">

@@ -1,5 +1,5 @@
 ---layout: cover
-background: '/banner.png'
+background: 'https://github.com/alili/bullshit_jobs/blob/main/public/banner.png'
 ---
 # 开源读书会
 
@@ -9,7 +9,7 @@ background: '/banner.png'
 
 ---
 layout: image-left
-image: '/author.jpg'
+image: 'https://github.com/alili/bullshit_jobs/blob/main/public/author.jpg'
 ---
 # 大卫·格雷伯
 
@@ -46,7 +46,7 @@ layout: list
 layout: title
 ---
 <video controls>
-<source src="/video.mp4" type="video/mp4">
+<source src="https://github.com/alili/bullshit_jobs/blob/main/public/video.mp4" type="video/mp4">
 </video>
 <!-- 赶时间的小伙伴可以关掉这个网页了 -->
 
@@ -104,7 +104,7 @@ layout: quote
 
 ---
 layout: image-left
-image: '/sisyphus.jpeg'
+image: 'https://github.com/alili/bullshit_jobs/blob/main/public/sisyphus.jpeg'
 ---
 # 狗屁工作的特点
 
@@ -136,7 +136,7 @@ layout: title
 
 ---
 layout: thumb
-image: '/flunkies.png'
+image: 'https://github.com/alili/bullshit_jobs/blob/main/public/flunkies.png'
 name: 仆人
 en: flunky
 ---
@@ -155,7 +155,7 @@ layout: list
   
 ---
 layout: thumb
-image: '/Goons.png'
+image: 'https://github.com/alili/bullshit_jobs/blob/main/public/Goons.png'
 name: 打手
 en: Goons
 ---
@@ -175,7 +175,7 @@ layout: list
 
 ---
 layout: thumb
-image: '/Tapers.png'
+image: 'https://github.com/alili/bullshit_jobs/blob/main/public/Tapers.png'
 name: 拼接修补者
 en: Duct Tapers
 ---
@@ -196,7 +196,7 @@ layout: list
   
 ---
 layout: thumb
-image: '/ticking.png'
+image: 'https://github.com/alili/bullshit_jobs/blob/main/public/ticking.png'
 name: 打勾者
 en: Box ticking
 ---
@@ -217,7 +217,7 @@ layout: list
   
 ---
 layout: thumb
-image: '/Task.png'
+image: 'https://github.com/alili/bullshit_jobs/blob/main/public/Task.png'
 name: 分派者
 en: Task Masters
 ---
