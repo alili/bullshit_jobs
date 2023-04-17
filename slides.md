@@ -51,13 +51,6 @@ layout: title
 <!-- 赶时间的小伙伴可以关掉这个网页了 -->
 
 ---
-layout: title
----
-<video controls>
-<source src="/video.mp4" type="video/mp4">
-</video>
-
----
 layout: vs
 ---
 ::left::
