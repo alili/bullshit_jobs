@@ -14,4 +14,4 @@ Learn more about Slidev on [documentations](https://sli.dev/).
 ## Online Link
 
 you can view the slide here:
-[bullshit-jobs-alili.vercel.app](bullshit-jobs-alili.vercel.app)
+[bullshit-jobs-alili.vercel.app](https://bullshit-jobs-alili.vercel.app)
