@@ -1,0 +1,16 @@
+{
+  "name": "bullshit_jobs",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.40.10",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*",
+    "pug": "^3.0.2",
+    "stylus": "^0.59.0"
+  }
+}
